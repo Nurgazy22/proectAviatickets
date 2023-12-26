@@ -10,7 +10,7 @@ cd TourPackets
 python3 -m venv venv
 
 4) Запускаем виртуальное окружение                                        
-. env/bin/activate
+. venv/bin/activate
 
 5) Обновляем систему управления пакетами                                  
 pip install --upgrade pip
